@@ -1,0 +1,2 @@
+[console_scripts]
+clean_folder = clean_folder.clean:main
